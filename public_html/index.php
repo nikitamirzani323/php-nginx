@@ -1576,23 +1576,24 @@
 						<a href="https://isb388slot2.com/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
 					</div>
 					<div class="col-xs-6">
-						<a href="https://isb388slot2.com/register" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
+						<a href="https://isb388slot2.com/register?ref=qlpkebs" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12 mt-3">
-				<a href="https://isb388slot2.com/"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
+				<a href="https://isb388slot2.com/register?ref=qlpkebs"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
 			</div>
 		</div>
 	</div>
 </div>
 <div class="container">
 	<div class="item-8 item-xs-12 m-b-1 slider-area owl-carousel">
-		<amp-carousel width="640" height="250" layout="responsive" type="slides" autoplay delay="4000">
-		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T08:35:54.479Z_HD_HOME_BANNER.png" width="640" height="360" layout="responsive" alt="SLOT">
-		</amp-img>
+		<amp-carousel width="640" height="250" layout="responsive" type="slides" autoplay delay="2000">
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T08:35:54.479Z_HD_HOME_BANNER.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T15:02:04.146Z_3.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
+		<amp-img src="https://static.nukeasset.com/assets/images/store/2023-03-02T15:03:17.591Z_2.png" width="640" height="360" layout="responsive" alt="SLOT"></amp-img>
 		</amp-carousel>
 	</div>
 </div>
