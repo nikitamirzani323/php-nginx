@@ -1541,8 +1541,8 @@
 			<div class="col-md-12">
 				<div class="logomobi acenter">
 					<span itemscope="itemscope" itemtype="https://schema.org/Brand">
-					<a itemprop="url" href="https://isb388slot2.com/" title="slot">
-						<a href="https://isb388slot2.com/" title="slot">
+					<a itemprop="url" href="https://isbslot388.com/" title="slot">
+						<a href="https://isbslot388.com/" title="slot">
 							<amp-img src="https://static.nukeasset.com/assets/images/store/2022-04-16T05:04:15.302Z_ISB388.png" alt="SLOT" width="145" height="55"/>
 						</a>
 						<meta itemprop="name" content="slot">
@@ -1560,8 +1560,8 @@
 			<div class="col-md-4">
 				<div class="logo acenter">
 					<span itemscope="itemscope" itemtype="https://schema.org/Brand">
-						<a itemprop="url" href="https://isb388slot2.com/" title="slot">
-							<a href="https://isb388slot2.com/" title="slot">
+						<a itemprop="url" href="https://isbslot388.com/" title="slot">
+							<a href="https://isbslot388.com/" title="slot">
 								<amp-img src="https://static.nukeasset.com/assets/images/store/2022-04-16T05:04:15.302Z_ISB388.png" alt="SLOT" width="250" height="80" layout="responsive"/>
 							</a>
 							<meta itemprop="name" content="slot">
@@ -1573,17 +1573,17 @@
 			<div class="col-md-8">
 				<div class="row logform">
 					<div class="col-xs-6">
-						<a href="https://isb388slot2.com/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
+						<a href="https://isbslot388.com/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
 					</div>
 					<div class="col-xs-6">
-						<a href="https://isb388slot2.com/register?ref=qlpkebs" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
+						<a href="https://isbslot388.com/register?ref=qlpkebs" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12 mt-3">
-				<a href="https://isb388slot2.com/register?ref=qlpkebs"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
+				<a href="https://isbslot388.com/register?ref=qlpkebs"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
 			</div>
 		</div>
 	</div>
@@ -1652,7 +1652,7 @@
 
         <h2 style="text-align: justify;"><strong>ISB388: Link slot online Yang Mudah Untuk Dimainkan dan Website slot gacor Terpercaya</strong></h2>
         <p style="text-align: justify;">
-            Slot Gacor ISB388 merupakan suatu fitur permainan <a style="text-decoration: underline;" href="https://isb388slot2.com/">Website slot gacor Terpercaya</a> yang dimana memudahkan pemainnya untuk memahami gambar dan aturan bermain secara cuma-cuma. 
+            Slot Gacor ISB388 merupakan suatu fitur permainan <a style="text-decoration: underline;" href="https://isbslot388.com/">Website slot gacor Terpercaya</a> yang dimana memudahkan pemainnya untuk memahami gambar dan aturan bermain secara cuma-cuma. 
             Di dalam permainan akan sangat membantu disaat anda memperoleh uang hasil menang dari bet anda hanya tinggal melihat saldo anda bertambah atau bisa melakukan refresh kepada browser. 
             Beberapa permainan yang sering dimainkan, yaitu:
         </p>
@@ -1706,7 +1706,7 @@
         </p>
 		<div class="container">
 		<div class="kolongramen konten-domino pb-2">
-			<span><center>Copyright &copy; SITUS <a href="https://isb388slot2.com/">SLOT GACOR</a> TERPERCAYA. All rights Reserved.</center></span>
+			<span><center>Copyright &copy; SITUS <a href="https://isbslot388.com/">SLOT GACOR</a> TERPERCAYA. All rights Reserved.</center></span>
             </div>
 		</div>
 	</div>
