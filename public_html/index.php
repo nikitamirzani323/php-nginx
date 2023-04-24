@@ -1573,17 +1573,17 @@
 			<div class="col-md-8">
 				<div class="row logform">
 					<div class="col-xs-6">
-						<a href="https://isbslot388.com/" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
+						<a href="https://isb388slot.com/register?ref=4bdvguc" target="_blank" rel="nofollow noreferrer"><span class="tron-login">LOGIN</span></a>
 					</div>
 					<div class="col-xs-6">
-						<a href="https://isbslot388.com/register?ref=qlpkebs" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
+						<a href="https://isb388slot.com/register?ref=4bdvguc" target="_blank" rel="nofollow noreferrer"><span class="tron-regis">DAFTAR</span></a>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-md-12 mt-3">
-				<a href="https://isbslot388.com/register?ref=qlpkebs"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
+				<a href="https://isb388slot.com/register?ref=4bdvguc"><button type="login" class="btn btn-daf">Bergabung & Dapatkan Bonus Menarik Dari Slot Gacor</button></a>
 			</div>
 		</div>
 	</div>
